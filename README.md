@@ -32,7 +32,7 @@ the Cow would be the main character of the scene.
 10. Soap
 11. Toilet
 12. Towel Rack
-13 Vanity
+13. Vanity
 #### [Free: House Interior](https://assetstore.unity.com/packages/3d/props/interior/free-house-interior-223416)
 14. Bath Carpet
 15. Desk
